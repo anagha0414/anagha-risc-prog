@@ -9,7 +9,7 @@
   <li>lverilog</li>
   <li>gtkwave</li>
 </ol>
-  
+  <h2> </h2>
   <h2>Yosys – Yosys Open Synthesis Suite</h2>
 <p>
  <pre>$ git clone https://github.com/YosysHQ/yosys.git 
@@ -22,17 +22,18 @@ $ sudo apt-get install build-essential clang bison flex \
 $ make 
 $ sudo make install </pre>
   </p>
+  <h2> </h2>
    <h2>Iverilog</h2>
   Steps to install IVerilog
   <p>
     <pre>sudo apt-get update
 sudo apt-get install iverilog     </pre>
   </p>
-  
+  <h2> </h2>
   <h2>gtkwave</h2>
   Steps to install gtkwave
   <p>
     <pre>sudo apt-get update
 sudo apt-get install iverilog    </pre>
-
+</p>
   </details>
